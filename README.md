@@ -1,7 +1,6 @@
 # Spectral Clustering for Taskonomy
 
-- [ ] Training loop
-    - [ ] Resnet Backbone forward pass (frozen)
-    - [ ] ConvNets for each task
-    - [ ] Cluster saliencies during forward pass
-#Taskonomy Clustering
+- Write training loop for single building
+- Give option to select building from config file
+- Task specific decoder and loss function
+- Figure out logging
